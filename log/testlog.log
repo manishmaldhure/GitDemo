@@ -1,0 +1,27 @@
+2023-09-05 12:40:06,520 - Logging1 -INFO - driver created..
+2023-09-05 12:40:06,663 - Logging1 -INFO -  window maximized..
+2023-09-05 12:42:12,191 - Logging1 -INFO - driver created..
+2023-09-05 12:42:12,314 - Logging1 -INFO -  window maximized..
+2023-09-05 12:45:26,746 - Logging1 -INFO - Property file object created..
+2023-09-05 12:45:29,014 - Logging1 -INFO -  driver object created..
+2023-09-05 12:47:24,125 - Logging1 -INFO - Property file object created..
+2023-09-05 12:47:26,460 - Logging1 -INFO -  driver object created..
+2023-09-05 12:48:16,068 - Logging1 -INFO - Property file object created..
+2023-09-05 12:48:18,220 - Logging1 -INFO -  driver object created..
+2023-09-05 12:50:57,220 - Logging1 -INFO - Property file object created..
+2023-09-05 12:50:59,296 - Logging1 -INFO -  driver object created..
+2023-09-05 12:53:00,292 - Logging1 -INFO - Property file object created..
+2023-09-05 12:53:02,404 - Logging1 -INFO -  driver object created..
+2023-09-05 12:53:05,233 - Logging1 -INFO -  url is launched..
+2023-09-05 12:53:07,497 - Logging1 -INFO - data is entered in email field..
+2023-09-05 12:53:09,640 - Logging1 -INFO - data is entered in password field..
+2023-09-05 12:53:30,065 - Logging1 -INFO - Property file object created..
+2023-09-05 12:53:32,353 - Logging1 -INFO -  driver object created..
+2023-09-05 12:53:35,334 - Logging1 -INFO -  url is launched..
+2023-09-05 12:53:37,491 - Logging1 -INFO - data is entered in email field..
+2023-09-05 12:53:39,640 - Logging1 -INFO - data is entered in password field..
+2023-09-05 13:41:35,117 - CommonFile -INFO - Property file object created..
+2023-09-05 13:41:37,504 - CommonFile -INFO -  driver object created..
+2023-09-05 13:41:43,064 - CommonFile -INFO -  url is launched..
+2023-09-05 13:41:45,239 - CommonFile -INFO - data is entered in email field..
+2023-09-05 13:41:47,392 - CommonFile -INFO - data is entered in password field..

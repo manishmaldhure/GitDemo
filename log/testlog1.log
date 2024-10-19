@@ -1,0 +1,27 @@
+2023-09-05 12:40:06,520 [main] INFO Logging1 - driver created..
+2023-09-05 12:40:06,663 [main] INFO Logging1 -  window maximized..
+2023-09-05 12:42:12,191 [main] INFO Logging1 - driver created..
+2023-09-05 12:42:12,314 [main] INFO Logging1 -  window maximized..
+2023-09-05 12:45:26,746 [main] INFO Logging1 - Property file object created..
+2023-09-05 12:45:29,014 [main] INFO Logging1 -  driver object created..
+2023-09-05 12:47:24,125 [main] INFO Logging1 - Property file object created..
+2023-09-05 12:47:26,460 [main] INFO Logging1 -  driver object created..
+2023-09-05 12:48:16,068 [main] INFO Logging1 - Property file object created..
+2023-09-05 12:48:18,220 [main] INFO Logging1 -  driver object created..
+2023-09-05 12:50:57,220 [main] INFO Logging1 - Property file object created..
+2023-09-05 12:50:59,296 [main] INFO Logging1 -  driver object created..
+2023-09-05 12:53:00,292 [main] INFO Logging1 - Property file object created..
+2023-09-05 12:53:02,404 [main] INFO Logging1 -  driver object created..
+2023-09-05 12:53:05,233 [main] INFO Logging1 -  url is launched..
+2023-09-05 12:53:07,497 [main] INFO Logging1 - data is entered in email field..
+2023-09-05 12:53:09,640 [main] INFO Logging1 - data is entered in password field..
+2023-09-05 12:53:30,065 [main] INFO Logging1 - Property file object created..
+2023-09-05 12:53:32,353 [main] INFO Logging1 -  driver object created..
+2023-09-05 12:53:35,334 [main] INFO Logging1 -  url is launched..
+2023-09-05 12:53:37,491 [main] INFO Logging1 - data is entered in email field..
+2023-09-05 12:53:39,640 [main] INFO Logging1 - data is entered in password field..
+2023-09-05 13:41:35,117 [main] INFO CommonFile - Property file object created..
+2023-09-05 13:41:37,504 [main] INFO CommonFile -  driver object created..
+2023-09-05 13:41:43,064 [main] INFO CommonFile -  url is launched..
+2023-09-05 13:41:45,239 [main] INFO CommonFile - data is entered in email field..
+2023-09-05 13:41:47,392 [main] INFO CommonFile - data is entered in password field..
